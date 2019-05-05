@@ -1,4 +1,4 @@
-#Array Practice 
+# Array Practice 
 
 Using one single line of JavaScript code, complete the following tasks on the array of integers below.
 
